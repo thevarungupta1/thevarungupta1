@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevarungupta1" alt="thevarungupta1" /></a> </p>
 
-- 🔭 I’m currently working on [AI-powered Assessment Platform](Real-time coding evaluation, proctoring & code quality analysis)
+- 🔭 I’m currently working on **AI-powered Assessment Platform**
 
 - 🌱 I’m currently learning **Apache Flink, System Design, LLM Integration, Kubernetes (AKS/EKS)**
 
-- 👯 I’m looking to collaborate on [Cloud-native / Distributed Systems Projects](Kafka, Flink, Microservices, Event-driven architecture)
+- 👯 I’m looking to collaborate on **Cloud-native / Distributed Systems Projects**
 
 - 🤝 I’m looking for help with **Scaling real-time systems & AI model optimization**
 
